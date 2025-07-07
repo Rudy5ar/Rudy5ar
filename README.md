@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Petar</h1>
 <h3 align="center">A programmer looking for the best solutions out there</h3>
 
-- 🌱 I’m currently learning **ASP.NET, AWS**
+- 🌱 I’m currently working with **ASP.NET, ANGULAR, AZURE**
 
 - 📫 How to reach me **petar.rudovic2@gmail.com**
 
